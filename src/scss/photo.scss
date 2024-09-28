@@ -1,0 +1,16 @@
+.photo{    
+    width: 300px;
+    height: auto;    
+    object-fit: cover;
+    object-position: center center;    
+    border-radius: 4px;   
+    
+    @media (max-width: 750px) {             
+        width: 95%; 
+        margin: 0;                 
+    }  
+}
+    
+    
+
+    

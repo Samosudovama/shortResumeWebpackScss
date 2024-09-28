@@ -1,0 +1,13 @@
+@mixin baseShadow {
+    box-shadow:  1px 1px 80px, -1px -1px 80px rgb(194, 193, 192); 
+}
+
+@mixin baseFont {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 40px;    
+}
+
+
+   
+
